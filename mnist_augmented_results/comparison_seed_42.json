@@ -1,0 +1,9 @@
+{
+  "baseline_4_to_9_errors": 3,
+  "augmented_4_to_9_errors": 0,
+  "reduction_count": 3,
+  "reduction_percentage": 100.0,
+  "baseline_accuracy": 0.9921000003814697,
+  "augmented_accuracy": 0.9922999739646912,
+  "accuracy_change": 0.00019997358322143555
+}

@@ -24,12 +24,6 @@ Thumbs.db
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Results & temp output
-results/
-mnist_augmented_results/
-mnist_baseline_results/
-dilation_validation.png
-
 # Large datasets
 *.npz
 *.npy
