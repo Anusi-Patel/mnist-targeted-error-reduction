@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model weights and checkpoints
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.weights.h5
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Results & temp output
+results/
+mnist_augmented_results/
+mnist_baseline_results/
+dilation_validation.png
+
+# Large datasets
+*.npz
+*.npy
+*.csv
+*.pkl
+
+# IDE settings
+.vscode/
+.idea/
